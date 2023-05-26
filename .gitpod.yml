@@ -12,3 +12,4 @@ vscode:
   extensions:
     - svelte.svelte-vscode
     - zixuanchen.vitest-explorer
+    - ms-vscode.vscode-typescript-next
